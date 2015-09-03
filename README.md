@@ -1,6 +1,6 @@
 #Arduino Nano Control with Blynk Platform
 
-<iframe src="//www.youtube.com/watch?v=lY00fh99oDo" frameborder="0" allowfullscreen></iframe>
+[![ScreenShot](https://github.com/zuhryfayesz/Zuhry-Blynk-LCD/blob/master/video.PNG)](https://www.youtube.com/watch?v=lY00fh99oDo)
 
 ![alt tag](https://github.com/zuhryfayesz/Zuhry-Blynk-LCD/blob/master/LCD%20with%20I2C%20Arduino%20Nano.PNG)
 

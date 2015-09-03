@@ -1,4 +1,4 @@
-#Arduino Nano Control with Blynk Platform
+#Arduino Nano Control with Blynk Platform App
 
 [![ScreenShot](https://github.com/zuhryfayesz/Zuhry-Blynk-LCD/blob/master/video.PNG)](https://www.youtube.com/watch?v=lY00fh99oDo)
 

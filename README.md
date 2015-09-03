@@ -9,3 +9,5 @@ Control Arduino Nano MCU via Blynk app for Android using Blynk USB Serial Intern
 GitHub repository and reference : https://github.com/zuhryfayesz/Zuhry-Blynk-LCD
 
 Blynk repository and reference : https://github.com/blynkkk/blynk-library
+
+Arduino I2C reference : http://playground.arduino.cc/Code/LCDi2c

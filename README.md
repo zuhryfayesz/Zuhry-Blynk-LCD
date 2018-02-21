@@ -1,4 +1,4 @@
-#Arduino Nano Control with Blynk Platform App
+Arduino Nano Control with Blynk Platform App
 
 [![ScreenShot](https://github.com/zuhryfayesz/Zuhry-Blynk-LCD/blob/master/video.PNG)](https://www.youtube.com/watch?v=lY00fh99oDo)
 
@@ -12,3 +12,5 @@ GitHub repository and reference : https://github.com/zuhryfayesz/Zuhry-Blynk-LCD
 Blynk repository and reference : https://github.com/blynkkk/blynk-library
 
 Arduino I2C reference : http://playground.arduino.cc/Code/LCDi2c
+
+<a href="https://www.buymeacoffee.com/kalutaradon" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
